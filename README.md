@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshpatil19&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshpatil19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkateshpatil19" alt="venkateshpatil19" /></a> </p>
-
 - 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **venkateshpatil1907@gmail.com**
@@ -24,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkateshpatil19&show_icons=true&locale=en" alt="venkateshpatil19" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshpatil19&" alt="venkateshpatil19" /></p>
