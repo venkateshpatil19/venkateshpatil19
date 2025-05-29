@@ -44,8 +44,6 @@
 ---
 
 ## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkateshpatil19&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="venkateshpatil19's GitHub Contribution Graph" width="95%" />
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkateshpatil19&theme=react-dark&area=true&hide_border=false&radius=16&color=00FFFF&line=00FFFF&point=FFFFFF&bg_color=0d1117" alt="venkateshpatil19's GitHub Contribution Graph" width="95%" /> </div>
 
 <!-- Made with ❤️ using GPRM: https://gprm.itsvg.in -->
