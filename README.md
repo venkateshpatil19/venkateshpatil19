@@ -1,6 +1,8 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffff&height=250&section=header&text=Venkatesh%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20coffee%20into%20code%20%7C%20Full-Stack%20%26%20Automation&descAlignY=55&descAlign=50" alt="Venkatesh Patil Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffff&height=250&section=header&text=Venkatesh%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20coffee%20into%20code%20%7C%20Full-Stack%20and%20Automation&descAlignY=55&descAlign=50" alt="Venkatesh Patil Header Banner" />
+
+  <br>
 
   <!-- Social Icons using skillicons -->
   <a href="https://linkedin.com/in/venkateshpatil19"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
@@ -52,7 +54,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Tracelink Internship</h3>
+      <h3><img src="https://avatars.githubusercontent.com/u/10834273?s=200&v=4" width="30" style="border-radius: 5px; vertical-align: middle;" /> Tracelink Internship</h3>
       Building enterprise-grade Java automation frameworks for dashboard & reporting workflows. Enhancing test coverage significantly to ensure seamless enterprise software delivery.
     </td>
     <td width="50%" valign="top">
