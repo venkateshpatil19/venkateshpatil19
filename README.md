@@ -4,15 +4,21 @@
 
   <br>
 
-  <!-- Social Profiles with Skillicons -->
+  <!-- Social Profiles with Uniform Icons -->
   <a href="https://linkedin.com/in/venkateshpatil19" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/venkateshpatil19" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:venkateshpatil1907@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/venkateshpatil19/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codolio.com/profile/venkateshpatil19" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-1572B6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
   </a>
 
   <br><br>
@@ -88,12 +94,7 @@
 
 ## 📈 Analytics & GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkateshpatil19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshpatil19&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
-</div>
 
-<br>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/venkateshpatil19?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="98%" />
