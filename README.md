@@ -4,12 +4,22 @@
 
   <br>
 
-  <!-- Social & Coding Profiles -->
-  <a href="https://linkedin.com/in/venkateshpatil19"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/venkateshpatil19"><img src="https://img.shields.io/badge/-GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:venkateshpatil1907@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://leetcode.com/u/venkateshpatil19/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://codolio.com/profile/venkateshpatil19"><img src="https://img.shields.io/badge/-Codolio-1572B6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"></a>
+  <!-- Social & Coding Profiles with Sleek Icons -->
+  <a href="https://linkedin.com/in/venkateshpatil19" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
+  </a>
+  <a href="https://github.com/venkateshpatil19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28">
+  </a>
+  <a href="mailto:venkateshpatil1907@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28">
+  </a>
+  <a href="https://leetcode.com/u/venkateshpatil19/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode" height="28">
+  </a>
+  <a href="https://codolio.com/profile/venkateshpatil19" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-1572B6?style=flat-square&logo=codeforces&logoColor=white" alt="Codolio" height="28">
+  </a>
 
   <br><br>
 
@@ -17,18 +27,15 @@
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkateshpatil19&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="Profile Views" />
-</div>
-
 ---
 
 <div align="center">
   <h2>🚀 About Me</h2>
-  <p>I'm a passionate developer focused on building scalable, real-world solutions. Whether it's crafting intuitive frontend experiences, designing robust backend architectures, or automating enterprise workflows, I love tackling complex technical challenges.</p>
 </div>
+
+I am a passionate **Full-Stack Developer and Automation Engineer** dedicated to architecting scalable, real-world solutions. My journey spans across crafting highly intuitive frontend experiences, designing secure and robust backend systems, and pioneering AI-driven innovations. 
+
+Currently, I am heavily focused on building enterprise-grade Java automation frameworks that ensure seamless software delivery and massive test coverage improvements. Beyond enterprise engineering, I am exploring the fascinating world of Machine Learning—specifically building predictive hypothesis frameworks using LangChain and Python. I thrive in environments where complex technical challenges meet elegant, optimized code. When I'm not developing, you can find me mentoring students in cross-platform development or actively solving algorithmic problems on LeetCode.
 
 ---
 
@@ -55,23 +62,29 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://cdn.worldvectorlogo.com/logos/tracelink-1.svg" width="120" style="vertical-align: middle;" /></h3>
-      <strong>Software Engineering Intern</strong><br><br>
-      Building enterprise-grade Java automation frameworks for dashboard & reporting workflows. Enhancing test coverage significantly to ensure seamless enterprise software delivery.
+      <h3>
+        <img src="https://logo.clearbit.com/tracelink.com" width="30" style="vertical-align: middle; border-radius: 4px;" /> 
+        Software Engineering Intern
+      </h3>
+      <strong>@ Tracelink</strong><br><br>
+      Architecting enterprise-grade Java automation frameworks for mission-critical dashboard and reporting workflows. Currently driving significant test coverage enhancements to ensure seamless enterprise software delivery.
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI & Machine Learning</h3>
-      Developing an <strong>Employment Prediction Hypothesis Framework</strong> using Python, LangChain, and ML to produce actionable Business Intelligence insights from heterogeneous datasets.
+      <br>
+      Developing an <strong>Employment Prediction Hypothesis Framework</strong> utilizing Python, LangChain, and advanced ML algorithms to extract actionable Business Intelligence insights from heterogeneous datasets.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Mobile & Web Apps</h3>
-      Created <strong>Smart E-Grievance</strong> (Android/Java) and hotel reservation systems with React & PostgreSQL. I also lead cross-platform Flutter workshops for 150+ students!
+      <h3>📱 Mobile & Web Engineering</h3>
+      <br>
+      Engineered <strong>Smart E-Grievance</strong> (Android/Java) and hotel reservation systems utilizing React & PostgreSQL. Active community leader directing cross-platform Flutter workshops for over 150+ students.
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Automation & Tooling</h3>
-      Built a <strong>Question Paper Generator</strong> (Django/Python) that automates rule-based paper creation, reducing manual effort by 90% while guaranteeing 100% unique outputs.
+      <h3>⚙️ Automation Tooling</h3>
+      <br>
+      Developed a high-efficiency <strong>Question Paper Generator</strong> (Django/Python) that fully automates rule-based algorithmic paper creation, mitigating manual effort by 90% while guaranteeing 100% unique outputs.
     </td>
   </tr>
 </table>
