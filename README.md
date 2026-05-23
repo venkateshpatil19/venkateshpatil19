@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:00FFFF&height=250&section=header&text=Venkatesh%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20coffee%20into%20code%20%7C%20Full-Stack%20and%20Automation&descAlignY=55&descAlign=50" alt="Venkatesh Patil Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:00FFFF&height=250&section=header&text=Venkatesh%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20Automation%20%7C%20SWE%20Intern%20%40%20Tracelink&descAlignY=55&descAlign=50" alt="Venkatesh Patil Header Banner" />
 
 <br><br>
 
@@ -119,4 +119,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:00FFFF&height=100&section=footer" width="100%" />
-</div
+</div>
