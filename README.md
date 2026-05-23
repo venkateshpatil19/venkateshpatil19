@@ -4,21 +4,15 @@
 
   <br>
 
-  <!-- Social & Coding Profiles with Sleek Icons -->
+  <!-- Social Profiles with Skillicons -->
   <a href="https://linkedin.com/in/venkateshpatil19" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/venkateshpatil19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="mailto:venkateshpatil1907@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28">
-  </a>
-  <a href="https://leetcode.com/u/venkateshpatil19/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode" height="28">
-  </a>
-  <a href="https://codolio.com/profile/venkateshpatil19" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-1572B6?style=flat-square&logo=codeforces&logoColor=white" alt="Codolio" height="28">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 
   <br><br>
@@ -29,13 +23,14 @@
 
 ---
 
-<div align="center">
-  <h2>🚀 About Me</h2>
-</div>
+## 🚀 About Me
 
-I am a passionate **Full-Stack Developer and Automation Engineer** dedicated to architecting scalable, real-world solutions. My journey spans across crafting highly intuitive frontend experiences, designing secure and robust backend systems, and pioneering AI-driven innovations. 
-
-Currently, I am heavily focused on building enterprise-grade Java automation frameworks that ensure seamless software delivery and massive test coverage improvements. Beyond enterprise engineering, I am exploring the fascinating world of Machine Learning—specifically building predictive hypothesis frameworks using LangChain and Python. I thrive in environments where complex technical challenges meet elegant, optimized code. When I'm not developing, you can find me mentoring students in cross-platform development or actively solving algorithmic problems on LeetCode.
+- 📍 **Location:** Pune, India | B.Tech CSE @ PCCOE (2027)
+- 🏢 **SDE Intern @ [Tracelink](https://www.tracelink.com):** Scaled automation coverage 75% → 95% across 120+ test suites
+- 🏅 **Academic Excellence:** Diploma Topper — 94.63% | Dept. 1st Rank | Student of the Year
+- 🛠️ **Tech Stack:** Java · Python · Django · Flutter · Spring · REST APIs · ML
+- 🤖 **Currently Building:** Employment Prediction Framework utilizing LangChain & NLP
+- 🎤 **Leadership:** Led Flutter cross-platform workshop for 150+ students as GDGC Flutter Executive
 
 ---
 
@@ -63,7 +58,7 @@ Currently, I am heavily focused on building enterprise-grade Java automation fra
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <img src="https://logo.clearbit.com/tracelink.com" width="30" style="vertical-align: middle; border-radius: 4px;" /> 
+        <img src="https://avatars.githubusercontent.com/u/10834273?v=4" width="30" style="vertical-align: middle; border-radius: 4px;" /> 
         Software Engineering Intern
       </h3>
       <strong>@ Tracelink</strong><br><br>
