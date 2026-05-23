@@ -4,10 +4,12 @@
 
   <br>
 
-  <!-- Social Icons using skillicons -->
-  <a href="https://linkedin.com/in/venkateshpatil19"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/venkateshpatil19"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
-  <a href="mailto:venkateshpatil1907@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
+  <!-- Social & Coding Profiles -->
+  <a href="https://linkedin.com/in/venkateshpatil19"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/venkateshpatil19"><img src="https://img.shields.io/badge/-GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:venkateshpatil1907@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/venkateshpatil19/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://codolio.com/profile/venkateshpatil19"><img src="https://img.shields.io/badge/-Codolio-1572B6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"></a>
 
   <br><br>
 
@@ -26,7 +28,6 @@
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>I'm a passionate developer focused on building scalable, real-world solutions. Whether it's crafting intuitive frontend experiences, designing robust backend architectures, or automating enterprise workflows, I love tackling complex technical challenges.</p>
-  <p>Currently, I'm innovating at <strong>Tracelink</strong> as a Software Engineering Intern, scaling Java automation frameworks from 75% to 95% coverage across 120+ test suites. When I'm not coding, I'm mentoring students as a Flutter Domain Executive or building AI/ML models!</p>
 </div>
 
 ---
@@ -54,7 +55,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://avatars.githubusercontent.com/u/10834273?s=200&v=4" width="30" style="border-radius: 5px; vertical-align: middle;" /> Tracelink Internship</h3>
+      <h3><img src="https://cdn.worldvectorlogo.com/logos/tracelink-1.svg" width="120" style="vertical-align: middle;" /></h3>
+      <strong>Software Engineering Intern</strong><br><br>
       Building enterprise-grade Java automation frameworks for dashboard & reporting workflows. Enhancing test coverage significantly to ensure seamless enterprise software delivery.
     </td>
     <td width="50%" valign="top">
@@ -81,6 +83,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=venkateshpatil19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshpatil19&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/venkateshpatil19?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="98%" />
 </div>
 
 <br>
